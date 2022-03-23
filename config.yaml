@@ -1,13 +1,16 @@
 baseURL: https://danaes.github.io
-
 languageCode: es-es
-title: "Blog_dag"
+defaultContentLanguage: es
+title: "Danaes"
 theme: "toha"
 
 languages:
+  es:
+    languageName: Spanish
+    weight: 1
   en:
     languageName: English
-    weight: 1
+    weight: 2
 
 markup:
   tableOfContents:
@@ -23,10 +26,24 @@ outputs:
 
 enableEmoji: true
 
+
 params:
+  background: /images/site/background.jpg
+
+  websiteTitle: "Blog Danaes | Official web page"
+
   enableBlogPost: true
 
   enableTOC: true
 
   newsletter:
     enable: false
+
+  lazyload:
+    enable: trues
+
+  seo:
+    enable: true
+
+
+disableKinds: ["taxonomy", "taxonomyTerm"]

@@ -1,0 +1,37 @@
+section:
+  name: Habilidades
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+
+
+skills:
+- name: Java
+  logo: "/images/sections/skills/java.png"
+  summary: "Es el lenguaje que llevo en el ADN. Su seguridad y robusted lo convierten en uno de mis lenguajes preferidos."
+  url: https://github.com/danaes?tab=repositories&q=&type=&language=java
+
+- name: Arquitectura software
+  logo: "/images/sections/skills/architecture.png"
+  summary: "Aprendizaje continuo sobre arquitecturas escalables y mantenibles en el tiempo. Conocimientos sobre patrones de diseño para su uso correcto."
+
+- name: Git
+  logo: "/images/sections/skills/git.png"
+  summary: "Experiencia en desarrollos bajo el sistema de control de versiones git. Conocimiento elevado sobre el uso de la herramienta."
+  url: "https://git-scm.com/"
+
+- name: DevOps
+  logo: "/images/sections/skills/devops.png"
+  summary: "Desarrollo aplicaciones usando la cultura DevOps para hacer tests, desarrollar y desplegar rápidamente. Experiencia trabajando con Github Actions, GitLab CI/CD y Travis CI junto con Docker. Además, tengo conocimientos de Ansible para la automatización de procesos."
+  url:  https://github.com/danaes?tab=repositories&q=&type=&language=jinja
+
+- name: Python
+  logo: "/images/sections/skills/python.png"
+  summary: "Uso Python como lenguaje principal para proyectos de inteligencia artificial. Desde el estudio previo e investigación hasta la desarrollo de un producto software."
+  url: https://github.com/danaes?tab=repositories&q=&type=&language=python
+
+- name: Typescipt
+  logo: "/images/sections/skills/typescript.png"
+  summary: "Conocientos sobre typescript, un lenguaje que le considero que tiene cierta versatilidad. He desarrollado proyectos propios bajo el framework NodeJS para el lado del servidor y con Ionic para el lado del cliente."
+  url:  https://github.com/danaes?tab=repositories&q=&type=&language=typescript

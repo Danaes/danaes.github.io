@@ -4,7 +4,6 @@ section:
   enable: true
   weight: 1
   showOnNavbar: true
-  template: sections/about.html
 
 designation: Ingeniero Software Backend
 company:

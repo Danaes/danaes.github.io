@@ -2,6 +2,7 @@ name: "Daniel Álvarez Gil"
 nickname: "Dani"
 
 greeting: "Hi, I'm "
+image: "/images/site/perfil.jpg"
 
 summary:
 - Software engineer

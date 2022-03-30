@@ -1,0 +1,13 @@
+name: "Daniel Álvarez Gil"
+nickname: "Dani"
+
+greeting: "Hola, soy "
+image: "/images/site/perfil.jpg"
+
+summary:
+- Ingeniero de software
+- Un constante aprendiz
+- Nunca se sabe lo suficiente como para dejar de aprender
+
+contactInfo:
+  LinkedIn: "https://cutt.ly/6fCptFX"

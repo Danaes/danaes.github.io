@@ -1,0 +1,63 @@
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+
+designation: Software Backend Engineer
+company:
+  name: Autentia 📌.
+  url: "https://www.autentia.com/en/"
+
+# resume: "files/resume.pdf"
+
+summary: 'I am a passionate Software Engineer who is always looking for continuous learning to never stop learning! 👨‍🎓 Since I took my first steps in technology, I have always interested to do things in the most efficient way and with the best quality (scalable architectures, design patterns, CI/CD environments, code coverage, etc ⚙). My main job is to turn functional requirements into something tangible and of value to the customer, applying engineering and best practices 👨‍💻.'
+
+# ¡Soy un apasionado Ingeniero de Software que busca siempre un aprendizaje continuo para no dejar nunca de aprender! Desde que dí mis primeros pasos en tecnología, siempre he buscado hacer las cosas de la forma más efeciciente y con buena calidad (arquitecturas escalabes, patrones de diseño, entornos de CI/CD, cobertura de al menos el 85% del código, etc). Mi principal trabajo es convertir requisitos funcionales en algo tangible y de valor para el cliente, aplicando ingeniería y buenas prácticas.
+socialLinks:
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/daniel-%C3%A1lvarez-gil-435b36113/"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/danaes"
+
+- name: Email
+  icon: "fas fa-envelope"
+  url: "alvarez17dani@gmail.com"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/danaes_esp"
+
+- name: Telegram
+  icon: "fab fa-telegram"
+  url: "https://t.me/Danaes_esp"
+
+
+softSkills:
+- name: Leadership
+  percentage: 85
+  color: blue
+
+- name: Team Work
+  percentage: 100
+  color: pink
+
+- name: Curious
+  percentage: 95
+  color: yellow
+
+- name: "English Level: B2"
+  percentage: 85
+  color: orange
+
+- name: Fast Learner
+  percentage: 95
+  color: sky
+
+- name: Engineer
+  percentage: 100
+  color: green

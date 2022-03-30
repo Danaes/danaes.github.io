@@ -1,0 +1,13 @@
+name: "Daniel Álvarez Gil"
+nickname: "Dani"
+
+greeting: "Hi, I'm "
+image: "/images/site/perfil.jpg"
+
+summary:
+- Software engineer
+- A constant learner
+- You can never know enough to stop learning
+
+contactInfo:
+  LinkedIn: "https://cutt.ly/6fCptFX"

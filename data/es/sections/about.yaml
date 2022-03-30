@@ -1,0 +1,63 @@
+section:
+  name: Acerca de mí
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+
+designation: Ingeniero Software Backend
+company:
+  name: Autentia 📌.
+  url: "https://www.autentia.com/en/"
+
+resume: "files/es/resume.pdf"
+
+summary: '¡Soy un apasionado Ingeniero de Software que busca siempre un aprendizaje continuo para no dejar nunca de aprender! 👨‍🎓 Desde que dí mis primeros pasos en tecnología, siempre he buscado hacer las cosas de la forma más efeciciente y con la mejor calidad (arquitecturas escalabes, patrones de diseño, entornos de CI/CD, cobertura de código, etc ⚙). Mi principal trabajo es convertir requisitos funcionales en algo tangible y de valor para el cliente, aplicando ingeniería y buenas prácticas 👨‍💻.'
+
+
+socialLinks:
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/daniel-%C3%A1lvarez-gil-435b36113/"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/danaes"
+
+- name: Email
+  icon: "fas fa-envelope"
+  url: "alvarez17dani@gmail.com"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/danaes_esp"
+
+- name: Telegram
+  icon: "fab fa-telegram"
+  url: "https://t.me/Danaes_esp"
+
+
+softSkills:
+- name: Liderazgo
+  percentage: 85
+  color: blue
+
+- name: Compañerismo
+  percentage: 100
+  color: pink
+
+- name: Curioso
+  percentage: 95
+  color: yellow
+
+- name: "Inglés: B2"
+  percentage: 85
+  color: orange
+
+- name: Aprendo rápido
+  percentage: 95
+  color: sky
+
+- name: Ingeniero
+  percentage: 100
+  color: green

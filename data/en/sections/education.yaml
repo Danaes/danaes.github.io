@@ -1,0 +1,48 @@
+section:
+  name: Education
+  id: education
+  enable: true
+  weight: 4
+  showOnNavbar: true
+
+degrees:
+- name: Master Degree in Artificial Intelligence
+  icon: fa-brain
+  timeframe: 2020-2021
+  institution:
+    name: Valencia International University - VIU
+    url: https://www.universidadviu.com/es/master-inteligencia-artificial"
+  grade:
+    scale: CGPA
+    achieved: 3
+    outOf: 4
+
+- name: B. Sc. in Computer Engineering & Science
+  icon: fa-graduation-cap
+  timeframe: 2016-2020
+  institution:
+    name: Universidad Politécnica de Madrid - ETSISI
+    url: "https://etsisi.upm.es/"
+  grade: 
+    scale: CGPA
+    achieved: 3.75
+    outOf: 4
+  extracurricularActivities:
+  - Trainee at the university's computer and communications centre (2018-2019).
+  - Introduction to Enterprise Data Analytics (2018).
+  - Volunteer at ECSA (2018).
+  - 'Microsoft technologies course: Visual Studio, .Net Core, Azure, Xamarin (2016-2017).'
+  - IoT introductory course (2016).
+
+- name: Technician in Multiplatform Applications Development.
+  icon: fa-laptop-code
+  timeframe: 2014-2016
+  institution:
+    name: IES Juan de la Cierva
+    url: https://site.educa.madrid.org/ies.juandelacierva.madrid/
+  grade: 
+    scale: CGPA
+    achieved: 3.75
+    outOf: 4
+  extracurricularActivities:
+    - Trainee in a startup (2016). 

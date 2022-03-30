@@ -32,7 +32,7 @@ params:
 
   websiteTitle: "Blog Danaes | Official web page"
 
-  enableBlogPost: true
+  enableBlogPost: false
 
   enableTOC: true
 

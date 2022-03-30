@@ -1,0 +1,55 @@
+# section information
+section:
+  name: Proyects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+
+
+buttons:
+- name: All
+  filter: "all"
+
+- name: Academic
+  filter: "academic"
+
+- name: Hobby
+  filter: "hobby"
+
+- name: IoT
+  filter: "iot"
+
+
+projects:
+- name: Devops Raspberry 4
+  logo: /images/sections/projects/ansible.png
+  role: Mantainer
+  timeline: "Jul 2021 - current"
+  repo: https://github.com/Danaes/ansible-rpi4
+  summary: IaC (Infrastructure as Code). Maintain a raspberry configured with those services necessary for the user.
+  tags: ["hobby"]
+
+- name: Healthy Smart Chatbot
+  logo: /images/sections/projects/chatbot.png
+  role: Developer
+  timeline: "Jun 2021 - Sep 2021"
+  repo: https://github.com/Danaes/healthy-smart-chatbot
+  summary: Smart chatbot with NLP techniques and supervised learning to recommend diets based on the user's requirements.
+  tags: ["academic"]
+
+- name: Smart farming
+  logo: /images/sections/projects/flower.png
+  role: Developer
+  timeline: "Nov 2019 - Jan 2020"
+  repo: https://github.com/Danaes/macetero-iot
+  summary: It controls the water level, temperature, time, brightness and automatic watering through of sensors and an integrated system.
+  tags: ["academic", "iot"]
+
+- name: UAV Controller
+  logo: /images/sections/projects/drone.png
+  role: Developer
+  timeline: "May 2019 - Oct 2020"
+  repo: https://github.com/Danaes/drone-controller
+  summary: UAV control system for people with motor limitations through of single-handed gestures.
+  tags: ["academic", "iot"]

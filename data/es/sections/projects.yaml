@@ -25,7 +25,7 @@ projects:
 - name: Devops Raspberry 4
   logo: /images/sections/projects/ansible.png
   role: Mantenedor
-  timeline: "Jul 2021 - presente"
+  timeline: "Jul 2021 - Presente"
   repo: https://github.com/Danaes/ansible-rpi4
   summary: IaC (Infraestructura como código). Mantener configurada una raspberry con aquellos servicios necesarios para el usuario.
   tags: ["hobby"]

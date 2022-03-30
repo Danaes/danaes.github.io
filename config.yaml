@@ -40,7 +40,7 @@ params:
     enable: false
 
   lazyload:
-    enable: trues
+    enable: true
 
   seo:
     enable: true

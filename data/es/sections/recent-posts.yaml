@@ -1,0 +1,8 @@
+section:
+  name: Publicaciones recientes
+  id: recent-posts
+  enable: false
+  weight: 6
+  showOnNavbar: true
+  hideTitle: false
+  numShow: 4

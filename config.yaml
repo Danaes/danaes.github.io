@@ -45,12 +45,8 @@ params:
   seo:
     enable: true
 
-  features:
-    analytics:
-      enabled: true
-      google:
-        id: G-QH6WVZ6EG6
 
+googleAnalytics: G-QH6WVZ6EG6
 
 privacy:
   disqus:

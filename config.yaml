@@ -45,5 +45,26 @@ params:
   seo:
     enable: true
 
+  features:
+    analytics:
+      enabled: true
+      google:
+        id: G-QH6WVZ6EG6
 
-disableKinds: ["taxonomy", "taxonomyTerm"]
+
+privacy:
+  disqus:
+    disable: true
+  googleAnalytics:
+    anonymizeIP: false
+    disable: false
+    respectDoNotTrack: false
+    useSessionStorage: false
+  instagram:
+    disable: true
+  twitter:
+    disable: true
+  vimeo:
+    disable: true
+  youtube:
+    disable: true

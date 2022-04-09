@@ -11,11 +11,11 @@ experiences:
 - company:
     name: Autentia
     url: https://www.autentia.com/
-    location: San Fernando de Henares, 28830 Madrid
+    location: Av de Castilla 1, Local 21B, San Fernando de Henares, 28830 Madrid
     overview: Autentia is a company which transforms complex problems into solutions for the future, accompanying its clients in their most strategic projects, being a reference in efficiency and good practices.
   positions:
   - designation: Backend Software Engineer
-    start: Nomvember 2020
+    start: Nov 2020
     # end: 
     responsibilities:
     - Technical design of new functionalities under a microservices architecture with agile methodologies for a client in the airline industry.
@@ -25,12 +25,12 @@ experiences:
 - company:
     name: Universidad Politécnica de Madrid
     url: https://www.mdpi.com/1424-8220/20/8/2227
-    location: Calle Alan Turing, 28031 - MADRID
+    location: Calle Alan Turing, 28031 - Madrid
     overview: Reference centre for Technical Computer Engineering in Spain.
   positions:
   - designation: Embedded Systems Engineer
-    start: July 2020
-    end: October 2020
+    start: Jul 2020
+    end: Oct 2020
     responsibilities:
     - Design, development and implementation of an Internet of Things architecture applied to a vegetable garden.
     - Participation in the scientific paper, Fostering Environmental Awareness with Smart IoT Planters in Campuses.
@@ -39,8 +39,8 @@ experiences:
     name: Autentia
   positions:
   - designation: Intern
-    start: September 2019
-    end: January 2020
+    start: Sep 2019
+    end: Jan 2020
     responsibilities:
     - Learning and implementing a Rest API using best practices. HTTP headers for serialisation in formats, HATEOAS, filtering, sorting, pagination for collections, API versioning and error handling with HTTP status codes.
     - Development of new functionalities for internal company projects.

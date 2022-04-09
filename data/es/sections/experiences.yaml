@@ -11,11 +11,11 @@ experiences:
 - company:
     name: Autentia
     url: https://www.autentia.com/
-    location: San Fernando de Henares, 28830 Madrid
+    location: Av de Castilla 1, Local 21B, San Fernando de Henares, 28830 Madrid
     overview: Autentia es una empresa que transforma problemas complejos en soluciones de futuro, acompañando a sus clientes en sus proyectos más estratégicos, siendo referentes en eficacia y buenas prácticas.
   positions:
   - designation: Ingeniero Software Backend
-    start: Nomviembre 2020
+    start: Nov 2020
     # end: 
     responsibilities:
     - Diseño técnico de nuevas funcionalidades bajo una arquitectura de microservicios con metodologías ágiles para un cliente del sector aéreo.
@@ -25,12 +25,12 @@ experiences:
 - company:
     name: Universidad Politécnica de Madrid
     url: https://www.mdpi.com/1424-8220/20/8/2227
-    location: Calle Alan Turing, 28031 - MADRID
+    location: Calle Alan Turing, 28031 - Madrid
     overview: Centro de referencia de la Ingeniería Técnica Informática en España.
   positions:
   - designation: Ingeniero de computadores
-    start: Julio 2020
-    end: Octubre 2020
+    start: Jul 2020
+    end: Oct 2020
     responsibilities:
     - Diseño, desarrollo e implementación de una arquitectura Internet of Things aplicado a un huerto.
     - Participación en el documento científico, Fostering Environmental Awareness with Smart IoT Planters in Campuses.
@@ -38,12 +38,12 @@ experiences:
 - company:
     name: Autentia
     url: https://www.autentia.com/
-    location: San Fernando de Henares, 28830 Madrid
-    overview: Autentia es una empresa que transforma problemas complejos en soluciones de futuro, acompañando a sus clientes en sus proyectos más estratégicos, siendo referentes en eficacia y buenas prácticas.
+    # location: Av de Castilla 1, Local 21B, San Fernando de Henares, 28830 Madrid
+    # overview: Autentia es una empresa que transforma problemas complejos en soluciones de futuro, acompañando a sus clientes en sus proyectos más estratégicos, siendo referentes en eficacia y buenas prácticas.
   positions:
   - designation: Becario
-    start: Septiembre 2019
-    end: Enero 2020
+    start: Sept 2019
+    end: Ene 2020
     responsibilities:
     - Aprendizaje e implementación de una Api Rest haciendo uso de buenas prácticas. Cabeceras HTTP para la serialización en los formatos, HATEOAS, filtrado, ordenación, paginación para la colecciones, versionado de la API y manejo de errores con los códigos de estado HTTP.
     - Desarrollo de nuevas funcionalidades en proyectos internos de la compañía.

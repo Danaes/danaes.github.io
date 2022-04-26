@@ -113,6 +113,10 @@
           <li><a href={{ printf "https://github.com/%s" $value }} target="_blank" rel="noopener">
               <span><i class="fab fa-github"></i></span> <span>{{ $key }}</span>
             </a></li>
+          {{ else if (eq $key "Blog") }}
+          <li><a href={{ printf "https://www.adictosaltrabajo.com/author/%s" $value }} target="_blank" rel="noopener">
+            <span><i class="fab fa-hive"></i></span> <span>{{ $key }}</span>
+            </a></li>
           {{ else if (eq $key "Telegram") }}
           <li><a href={{ printf "https://t.me/%s" $value }} target="_blank" rel="noopener">
               <span><i class="fab fa-telegram"></i></span> <span>{{ $key }}</span>

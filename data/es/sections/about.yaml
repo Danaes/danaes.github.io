@@ -20,6 +20,10 @@ socialLinks:
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/daniel-%C3%A1lvarez-gil-435b36113/"
 
+- name: Blog
+  icon: "fab fa-hive"
+  url: "https://www.adictosaltrabajo.com/author/daniel-alvarez-gil/"
+
 - name: Github
   icon: "fab fa-github"
   url: "https://github.com/danaes"

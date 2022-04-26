@@ -45,22 +45,16 @@ params:
   seo:
     enable: true
 
+  features:
+    analytics:
+      enabled: true
+      google:
+        id: G-QH6WVZ6EG6
 
-googleAnalytics: G-QH6WVZ6EG6
 
-privacy:
-  disqus:
-    disable: true
-  googleAnalytics:
+Privacy:
+  GoogleAnalytics:
     anonymizeIP: false
     disable: false
     respectDoNotTrack: false
     useSessionStorage: false
-  instagram:
-    disable: true
-  twitter:
-    disable: true
-  vimeo:
-    disable: true
-  youtube:
-    disable: true

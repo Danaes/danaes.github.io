@@ -114,7 +114,7 @@
               <span><i class="fab fa-github"></i></span> <span>{{ $key }}</span>
             </a></li>
           {{ else if (eq $key "Blog") }}
-          <li><a href={{ printf "https://www.adictosaltrabajo.com/author/%s" $value }} target="_blank" rel="noopener">
+          <li><a href={{ printf "https://danaes.github.io/%s" $value }} target="_blank" rel="noopener">
             <span><i class="fab fa-hive"></i></span> <span>{{ $key }}</span>
             </a></li>
           {{ else if (eq $key "Telegram") }}
@@ -144,18 +144,7 @@
   <hr />
   <div class="container">
     <div class="row text-left">
-      <div class="col-md-4">
-        <a id="theme" href="https://github.com/hossainemruz/toha" target="_blank" rel="noopener">
-          <img src="{{ $themeLogo }}" alt="Toha Theme Logo">
-          Toha
-        </a>
-      </div>
-      <div class="col-md-4 text-center">{{ $copyrightNotice | markdownify }}</div>
-      <div class="col-md-4 text-right">
-        <a id="hugo" href="https://gohugo.io/" target="_blank" rel="noopener">{{ i18n "hugoAttributionText" }}
-          <img src="{{ $hugoLogo }}" alt="Hugo Logo" height="18" />
-        </a>
-      </div>
+      <div class="col-md-12 text-center">{{ $copyrightNotice | markdownify }}</div>
     </div>
   </div>
   {{ end }}

@@ -1,3 +1,7 @@
 copyright: © 2022 Copyright https://danaes.github.io/
 
 description: Blog personal de Daniel Álvarez. El blog con mejores tutoriales sobre tecnología, software y programación.
+
+customMenus:
+- name: Blog
+  url: /blog

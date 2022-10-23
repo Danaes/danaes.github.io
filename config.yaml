@@ -30,7 +30,7 @@ enableEmoji: true
 params:
   background: /images/site/background.jpg
 
-  websiteTitle: "Blog Danaes | Official web page"
+  websiteTitle: "Official web page"
 
   enableBlogPost: false
 

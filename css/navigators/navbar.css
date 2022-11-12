@@ -18,19 +18,18 @@
 }
 
 .initial-navbar .navbar-brand {
-  color: #c0ccda;
+  color: #0d0d0e;
   font-weight: 600;
 }
 
 .initial-navbar li a {
-  color: #c0ccda;
+  color: #0d0d0e;
 }
 
 .initial-navbar .navbar-nav .active,
 .initial-navbar li a:hover {
-  color: #f9fafc;
+  color: #0d0d0e;
   transition: all 0.3s ease-out;
-  transform: translateY(-2px);
 }
 
 .navbar-collapse {

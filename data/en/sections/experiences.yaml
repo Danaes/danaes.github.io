@@ -18,9 +18,9 @@ experiences:
     start: Nov 2020
     # end: 
     responsibilities:
-    - Technical design of new functionalities under a microservices architecture with agile methodologies for a client in the airline industry.
-    - Development, implementation and execution of server load testing with JMeter and Python for a digital banking client.
-    - Development and maintenance of internal ERP using Java, Spring, Spring Security, Hibernate. Configuration of the CI/CD pipeline.
+    - Energy sector. Technical analyst - Hexagonal architecture, CQS, AWS, Kubernetes, Scrum (Oct 2022 - Present).
+    - Aviation sector. Technical analyst - Microservices system, Kanban (Apr 2021 - Sep 2022).
+    - Digital Banking. Junior developer - Development and implementation of server load testing with JMeter and data analysis with Python (Jan 2021 - Mar 2021).
 
 - company:
     name: Universidad Politécnica de Madrid

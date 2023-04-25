@@ -18,9 +18,9 @@ experiences:
     start: Nov 2020
     # end: 
     responsibilities:
-    - Energy sector. Technical analyst - Hexagonal architecture, CQS, AWS, Kubernetes, Scrum (Oct 2022 - Present).
-    - Aviation sector. Technical analyst - Microservices system, Kanban (Apr 2021 - Sep 2022).
-    - Digital Banking. Junior developer - Development and implementation of server load testing with JMeter and data analysis with Python (Jan 2021 - Mar 2021).
+    - Energy sector. Technical Analyst - Design and development of the company's delivery area. Guiding the internal team to follow good development practices to achieve reliable and maintainable systems over time (Oct 2022 - Present).
+    - Air sector. Technical leader - Design and development of the retail system for the company's indirect channel. Head of a squad of 5 people whose competence was to help the business team to achieve its objectives and guide the technical team to develop them (Apr 2021 - Sep 2022).
+    - Digital Banking. Developer - Development and implementation of server load tests to check server capacity when there was a high demand on the applications (Jan 2021 - Mar 2021).
 
 - company:
     name: Universidad Politécnica de Madrid
@@ -42,6 +42,6 @@ experiences:
     start: Sep 2019
     end: Jan 2020
     responsibilities:
-    - Learning and implementing a Rest API using best practices. HTTP headers for serialisation in formats, HATEOAS, filtering, sorting, pagination for collections, API versioning and error handling with HTTP status codes.
-    - Development of new functionalities for internal company projects.
+    - Learning and implementation of an Api Rest using best practices.
+    - Development of new functionalities in internal company projects.
     - Implementation of CI/CD tools (SonarQube, Jenkins and Nexus).

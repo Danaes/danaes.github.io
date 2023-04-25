@@ -9,7 +9,7 @@ section:
 
 experiences:
 - company:
-    name: Autentia
+    name: Autentia, by Izertis
     url: https://www.autentia.com/
     location: Av de Castilla 1, Local 21B, San Fernando de Henares, 28830 Madrid
     overview: Autentia es una empresa que transforma problemas complejos en soluciones de futuro, acompañando a sus clientes en sus proyectos más estratégicos, siendo referentes en eficacia y buenas prácticas.
@@ -18,9 +18,9 @@ experiences:
     start: Nov 2020
     # end: 
     responsibilities:
-    - Sector energético. Analista técnico - Arquitectura hexagonal, CQS, AWS, Kubernetes, Scrum (Oct 2022 - Presente).
-    - Sector aéreo. Analista técnico - Sistema de microservicios, Kanban (Abr 2021 - Sep 2022).
-    - Banca digital. Desarrollador junior - Desarrollo e implementación de tests de carga en servidores con JMeter y anális de datos con Python (Ene 2021 - Mar 2021).
+    - Sector energético. Analista técnico - Diseño y desarrollo del área de delivery de la compañía. Orientar al equipo interno a seguir buenas prácticas de desarrollo para conseguir sistemas fiables y mantenibles en el tiempo (Oct 2022 - Presente).
+    - Sector aéreo. Líder técnico - Diseño y desarrollo del sistema retail para el canal indirecto de la compañía. Head de una squad de 5 personas cuya competencia fue ayudar al equipo de negocio a conseguir sus objetivos y orientar al equipo técnico a desarrollarlos (Abr 2021 - Sep 2022).
+    - Banca digital. Desarrollador - Desarrollo e implementación de tests de carga en servidores para comprobar la capacidad de estos cuando hubiera una alta demanda en las aplicaciones (Ene 2021 - Mar 2021).
 
 - company:
     name: Universidad Politécnica de Madrid
@@ -45,6 +45,6 @@ experiences:
     start: Sept 2019
     end: Ene 2020
     responsibilities:
-    - Aprendizaje e implementación de una Api Rest haciendo uso de buenas prácticas. Cabeceras HTTP para la serialización en los formatos, HATEOAS, filtrado, ordenación, paginación para la colecciones, versionado de la API y manejo de errores con los códigos de estado HTTP.
+    - Aprendizaje e implementación de una Api Rest haciendo uso de buenas prácticas.
     - Desarrollo de nuevas funcionalidades en proyectos internos de la compañía.
     - Implementación de herramientas CI/CD (SonarQube, Jenkins y Nexus).

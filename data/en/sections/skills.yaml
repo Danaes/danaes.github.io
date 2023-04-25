@@ -5,33 +5,23 @@ section:
   weight: 2
   showOnNavbar: true
 
-
 skills:
-- name: Java
-  logo: "/images/sections/skills/java.png"
-  summary: "It's the language in my DNA. Its security and robustness make it one of my favourite languages."
-  url: https://github.com/danaes?tab=repositories&q=&type=&language=java
+- name: Clean Architecture
+  logo: "/images/sections/skills/clean-arch.png"
+  summary: "Focused on designing and developing scalable and maintainable architectures over time."
 
-- name: Software architecture
-  logo: "/images/sections/skills/architecture.png"
-  summary: "Continuous learning about scalable and maintainable architectures over time. Knowledge of design patterns for their correct use."
+- name: Domain Driven Design (DDD) 
+  logo: "/images/sections/skills/ddd.png"
+  summary: "Focusing on the business domain is a best practice for building technology in complex domains."
 
-- name: Git
-  logo: "/images/sections/skills/git.png"
-  summary: "Experience in developments under the git version control system. High knowledge of the use of the tool."
-  url: "https://git-scm.com/"
+- name: Test Driven Development (TDD)
+  logo: "/images/sections/skills/tdd.png"
+  summary: "Building quality software comes from best practices and TDD is one of them. Nowadays there is no development in which I do not apply this technique."
 
-- name: DevOps
-  logo: "/images/sections/skills/devops.png"
-  summary: "I develop applications using DevOps culture to test, develop and deploy quickly. Experience working with Github Actions, GitLab CI/CD and Travis CI via Docker. In addition, I have knowledge of Ansible for process automation."
-  url:  https://github.com/danaes?tab=repositories&q=&type=&language=jinja
+- name: Event Driven Architecture (EDA)
+  logo: "/images/sections/skills/eda.png"
+  summary: "There are situations in which it is interesting to create a system based on events instead of requests, achieving a low level of coupling between the services that make up the system."
 
-- name: Python
-  logo: "/images/sections/skills/python.png"
-  summary: "I use Python as my main language for artificial intelligence projects. From the preliminary study and research to the development of a software product."
-  url: https://github.com/danaes?tab=repositories&q=&type=&language=python
-
-- name: Typescipt
-  logo: "/images/sections/skills/typescript.png"
-  summary: "Knowledge about typescript, a language that I consider to have some versatility. I have developed my own projects under the NodeJS framework for the server side and with Ionic for the client side."
-  url:  https://github.com/danaes?tab=repositories&q=&type=&language=typescript
+- name: Design Patterns
+  logo: "/images/sections/skills/pattern.png"
+  summary: "Always start from the basics. Making use of design patterns helps to build software with high cohesion and low coupling."

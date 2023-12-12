@@ -11,14 +11,14 @@ experiences:
 - company:
     name: Autentia, by Izertis
     url: https://www.autentia.com/
-    location: Av de Castilla 1, Local 21B, San Fernando de Henares, 28830 Madrid
+    location: Calle de Basauri, 6, Moncloa - Aravaca, 28023 Madrid
     overview: Autentia es una empresa que transforma problemas complejos en soluciones de futuro, acompañando a sus clientes en sus proyectos más estratégicos, siendo referentes en eficacia y buenas prácticas.
   positions:
   - designation: Ingeniero Software Backend
     start: Nov 2020
     # end: 
     responsibilities:
-    - Sector energético. Analista técnico - Diseño y desarrollo del área de delivery de la compañía. Orientar al equipo interno a seguir buenas prácticas de desarrollo para conseguir sistemas fiables y mantenibles en el tiempo (Oct 2022 - Presente).
+    - Sector energético. Consultor senior - Estar presente durante todo el ciclo de vida del software. Orientar al equipo interno a seguir buenas prácticas de desarrollo para conseguir sistemas fiables y mantenibles en el tiempo (Oct 2022 - Presente).
     - Sector aéreo. Líder técnico - Diseño y desarrollo del sistema retail para el canal indirecto de la compañía. Head de una squad de 5 personas cuya competencia fue ayudar al equipo de negocio a conseguir sus objetivos y orientar al equipo técnico a desarrollarlos (Abr 2021 - Sep 2022).
     - Banca digital. Desarrollador - Desarrollo e implementación de tests de carga en servidores para comprobar la capacidad de estos cuando hubiera una alta demanda en las aplicaciones (Ene 2021 - Mar 2021).
 

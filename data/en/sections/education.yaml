@@ -3,7 +3,7 @@ section:
   id: education
   enable: true
   weight: 4
-  showOnNavbar: true
+  showOnNavbar: false
 
 degrees:
 - name: Master Degree in Artificial Intelligence

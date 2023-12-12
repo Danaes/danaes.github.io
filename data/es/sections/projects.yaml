@@ -11,6 +11,9 @@ buttons:
 - name: Todos
   filter: "all"
 
+- name: Artículos
+  filter: "post"
+
 - name: Académicos
   filter: "academic"
 
@@ -22,9 +25,25 @@ buttons:
 
 
 projects:
+- name: FaaS con Funqy y Knative
+  logo: /images/sections/projects/quarkus.jpeg
+  role: Autor
+  timeline: "Oct 2023"
+  repo: https://www.adictosaltrabajo.com/2023/10/04/quarkus-funqy-y-knative/
+  summary: FaaS es un modelo de computación en la nube que permite a los desarrolladores ejecutar funciones de forma independiente ...
+  tags: ["post"]
+
+- name: CloudWatch
+  logo: /images/sections/projects/aws.png
+  role: Autor
+  timeline: "Abr 2021"
+  repo: https://www.adictosaltrabajo.com/2021/04/13/monitorizar-aplicaciones-en-un-cluster-de-kubernetes/
+  summary: En todas las aplicaciones que desplegamos nos interesa tener una serie de métricas y logs para poder realizar ...
+  tags: ["post"]
+
 - name: Devops Raspberry 4
   logo: /images/sections/projects/ansible.png
-  role: Mantenedor
+  role: Desarrollador
   timeline: "Jul 2021 - Presente"
   repo: https://github.com/Danaes/ansible-rpi4
   summary: IaC (Infraestructura como código). Mantener configurada una raspberry con aquellos servicios necesarios para el usuario.
@@ -32,7 +51,7 @@ projects:
 
 - name: Chatbot saludable
   logo: /images/sections/projects/chatbot.png
-  role: Developer
+  role: Desarrollador
   timeline: "Jun 2021 - Sep 2021"
   repo: https://github.com/Danaes/healthy-smart-chatbot
   summary: Chatbot inteligente con técnicas de NLP y aprendizaje supervisado para recomendar dietas en base a los requisitos del usuario.

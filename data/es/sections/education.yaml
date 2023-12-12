@@ -3,7 +3,7 @@ section:
   id: education
   enable: true
   weight: 4
-  showOnNavbar: true
+  showOnNavbar: false
   # Can optionally hide the title in sections
   # hideTitle: true
 

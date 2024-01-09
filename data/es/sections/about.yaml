@@ -38,7 +38,7 @@ socialLinks:
 
 softSkills:
 - name: Liderazgo
-  percentage: 85
+  percentage: 100
   color: blue
 
 - name: Compañerismo
@@ -46,17 +46,17 @@ softSkills:
   color: pink
 
 - name: Curioso
-  percentage: 95
+  percentage: 100
   color: yellow
 
 - name: "Inglés: B2"
-  percentage: 85
+  percentage: 100
   color: orange
 
 - name: Aprendo rápido
-  percentage: 95
+  percentage: 100
   color: sky
 
-- name: Ingeniero
+- name: Actitud
   percentage: 100
   color: green

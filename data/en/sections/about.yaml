@@ -38,7 +38,7 @@ socialLinks:
 
 softSkills:
 - name: Leadership
-  percentage: 85
+  percentage: 100
   color: blue
 
 - name: Team Work
@@ -46,17 +46,17 @@ softSkills:
   color: pink
 
 - name: Curious
-  percentage: 95
+  percentage: 100
   color: yellow
 
 - name: "English Level: B2"
-  percentage: 85
+  percentage: 100
   color: orange
 
 - name: Fast Learner
-  percentage: 95
+  percentage: 100
   color: sky
 
-- name: Engineer
+- name: Attitude
   percentage: 100
   color: green

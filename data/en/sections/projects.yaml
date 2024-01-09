@@ -11,6 +11,9 @@ buttons:
 - name: All
   filter: "all"
 
+- name: Post
+  filter: "post"
+
 - name: Academic
   filter: "academic"
 
@@ -22,6 +25,22 @@ buttons:
 
 
 projects:
+- name: FaaS with Funqy and Knative
+  logo: /images/sections/projects/quarkus.jpeg
+  role: Author
+  timeline: "Oct 2023"
+  repo: https://www.adictosaltrabajo.com/2023/10/04/quarkus-funqy-y-knative/
+  summary: FaaS is a cloud computing model that allows developers to run functions independently of each other ...
+  tags: ["post"]
+
+- name: CloudWatch
+  logo: /images/sections/projects/aws.png
+  role: Author
+  timeline: "Apr 2021"
+  repo: https://www.adictosaltrabajo.com/2021/04/13/monitorizar-aplicaciones-en-un-cluster-de-kubernetes/
+  summary: In all the applications we deploy, we are interested in having a series of metrics and logs in order to be able to carry out ...
+  tags: ["post"]
+
 - name: Devops Raspberry 4
   logo: /images/sections/projects/ansible.png
   role: Mantainer

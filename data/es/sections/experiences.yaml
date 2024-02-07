@@ -8,43 +8,44 @@ section:
   # hideTitle: true 
 
 experiences:
-- company:
-    name: Autentia, by Izertis
-    url: https://www.autentia.com/
-    location: Calle de Basauri, 6, Moncloa - Aravaca, 28023 Madrid
-    overview: Autentia es una empresa que transforma problemas complejos en soluciones de futuro, acompañando a sus clientes en sus proyectos más estratégicos, siendo referentes en eficacia y buenas prácticas.
-  positions:
-  - designation: Ingeniero Software Backend
-    start: Nov 2020
-    # end: 
-    responsibilities:
-    - Sector energético. Analista técnico - Desarrollar el área de delivery de la compañía haciendo uso de patrones de diseño y buenas prácticas con el fin de construir una arquitectura robusta y escalable. Oct 2022 - Presente
-    - Sector aéreo. Líder técnico - Head de una squad de 5 personas cuya competencia fue supervisar la tareas del equipo para alinear de manera efectiva los objetivos de negocios. Mi enfoque estratégico y liderazgo proactivo resultaron fundamentales para el logro exitoso de los objetivos establecidos. Abr 2021 - Sep 2022
-    - Banca digital. Desarrollador - Desarrollo e implementación de tests de carga en servidores para comprobar la capacidad de estos cuando hubiera una alta demanda en las aplicaciones. Ene 2021 - Mar 2021
+  - company:
+      name: Autentia, by Izertis
+      url: https://www.autentia.com/
+      location: Calle de Basauri, 6, Moncloa - Aravaca, 28023 Madrid
+      overview: Autentia es una empresa que transforma problemas complejos en soluciones de futuro, acompañando a sus clientes en sus proyectos más estratégicos, siendo referentes en eficacia y buenas prácticas.
+    positions:
+      - designation: Ingeniero Software Backend
+        start: Nov 2020
+        # end: 
+        responsibilities:
+          - "***Sector textil***. Senior Ingeniero Backend - Desarrollo de plataforma SaaS con una arquitectura orientada a eventos y haciendo uso de DDD para crear software de alta calidad que se ajuste a los requisitos del negocio. **Tecnologías**: SpringBoot, Kafka, AsyncApi, Java 17, Grafana. *Ene 2024 - Presente*"
+          - "***Sector energético***. Senior Ingeniero Backend - Desarrollar el área de delivery de la compañía haciendo uso de patrones de diseño y buenas prácticas con el fin de construir una arquitectura robusta y escalable. **Tecnologías**: Micronaut, Kotlin, SQS, Grafana. *Oct 2022 - Dic 2023*"
+          - "***Sector aéreo***. Líder técnico - Head de una equipo de 5 personas cuya competencia fue supervisar la tareas del equipo para alinear de manera efectiva los objetivos de negocios. Mi enfoque estratégico y liderazgo proactivo resultaron fundamentales para el logro exitoso de los objetivos establecidos. **Tecnologías**: Spring, Java 7, Redis, Kibana, SOAP. *Abr 2021 - Sep 2022*"
+          - "***Banca digital***. Ingeniero Backend - Desarrollo e implementación de tests de carga en servidores para comprobar la capacidad de estos cuando hubiera una alta demanda en las aplicaciones. **Tecnologías**: Python, JMeter, Bamboo. *Ene 2021 - Mar 2021*"
 
-- company:
-    name: Universidad Politécnica de Madrid
-    url: https://www.mdpi.com/1424-8220/20/8/2227
-    location: Calle Alan Turing, 28031 - Madrid
-    overview: Centro de referencia de la Ingeniería Técnica Informática en España.
-  positions:
-  - designation: Ingeniero de computadores
-    start: Jul 2020
-    end: Oct 2020
-    responsibilities:
-    - Diseño, desarrollo e implementación de una arquitectura Internet of Things aplicado a un huerto.
-    - Participación en el documento científico, Fostering Environmental Awareness with Smart IoT Planters in Campuses.
+  - company:
+      name: Universidad Politécnica de Madrid
+      url: https://www.mdpi.com/1424-8220/20/8/2227
+      location: Calle Alan Turing, 28031 - Madrid
+      overview: Centro de referencia de la Ingeniería Técnica Informática en España.
+    positions:
+      - designation: Ingeniero de computadores
+        start: Jul 2020
+        end: Oct 2020
+        responsibilities:
+          - Diseño, desarrollo e implementación de una arquitectura Internet of Things aplicado a un huerto.
+          - Participación en el documento científico, Fostering Environmental Awareness with Smart IoT Planters in Campuses.
 
-- company:
-    name: Autentia
-    url: https://www.autentia.com/
-    # location: Av de Castilla 1, Local 21B, San Fernando de Henares, 28830 Madrid
-    # overview: Autentia es una empresa que transforma problemas complejos en soluciones de futuro, acompañando a sus clientes en sus proyectos más estratégicos, siendo referentes en eficacia y buenas prácticas.
-  positions:
-  - designation: Becario
-    start: Sept 2019
-    end: Ene 2020
-    responsibilities:
-    - Aprendizaje e implementación de una Api Rest haciendo uso de buenas prácticas.
-    - Desarrollo de nuevas funcionalidades en proyectos internos de la compañía.
-    - Implementación de herramientas CI/CD (SonarQube, Jenkins y Nexus).
+  - company:
+      name: Autentia
+      url: https://www.autentia.com/
+      # location: Av de Castilla 1, Local 21B, San Fernando de Henares, 28830 Madrid
+      # overview: Autentia es una empresa que transforma problemas complejos en soluciones de futuro, acompañando a sus clientes en sus proyectos más estratégicos, siendo referentes en eficacia y buenas prácticas.
+    positions:
+      - designation: Becario
+        start: Sept 2019
+        end: Ene 2020
+        responsibilities:
+          - Aprendizaje e implementación de una Api Rest haciendo uso de buenas prácticas.
+          - Desarrollo de nuevas funcionalidades en proyectos internos de la compañía.
+          - Implementación de herramientas CI/CD (SonarQube, Jenkins y Nexus).

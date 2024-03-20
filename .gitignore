@@ -3,3 +3,4 @@ resources
 .*lock
 
 .idea
+node_modules

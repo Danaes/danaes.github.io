@@ -41,28 +41,22 @@ enableEmoji: true
 
 params:
   background: /images/site/background.jpg
-
   websiteTitle: "Official web page"
-
   enableBlogPost: false
-
   tco: true
-
   newsletter:
     enable: false
-
   lazyload:
     enable: true
-
   seo:
     enable: true
-
   features:
     analytics:
       enabled: true
       google:
         id: G-QH6WVZ6EG6
-
+    darkMode:
+      enabled: true
 
 Privacy:
   GoogleAnalytics:

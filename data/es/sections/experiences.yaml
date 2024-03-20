@@ -9,27 +9,55 @@ section:
 
 experiences:
   - company:
+      name: Paradigma digital
+      url: https://www.paradigmadigital.com/
+      logo: /images/sections/experiences/paradigma_digital.svg
+      location: Vía de las Dos Castillas, 33, Ática 2, 28224, Pozuelo de Alarcón, Madrid
+    positions:
+      - designation: Ingeniero de Datos
+        start: Mar 2024
+        # end: Mar 2024
+        responsibilities:
+          - "***Tecnologías***: Cloudera, Spark, Impala, Kudu, HDFS, Scala, Sql Server."
+          - "***BME***: Definición y desarrollo de procesos ETL."
+  - company:
       name: Autentia, by Izertis
       url: https://www.autentia.com/
+      logo: /images/sections/experiences/autentia.png
       location: Calle de Basauri, 6, Moncloa - Aravaca, 28023 Madrid
-      overview: Autentia es una empresa que transforma problemas complejos en soluciones de futuro, acompañando a sus clientes en sus proyectos más estratégicos, siendo referentes en eficacia y buenas prácticas.
     positions:
-      - designation: Ingeniero Software Backend
-        start: Nov 2020
-        # end: 
+      - designation: Desarrollador Backend
+        start: Ene 2024
+        end: Mar 2024
         responsibilities:
-          - "***Sector textil***. Senior Ingeniero Backend - Desarrollo de plataforma SaaS con una arquitectura orientada a eventos y haciendo uso de DDD para crear software de alta calidad que se ajuste a los requisitos del negocio. **Tecnologías**: SpringBoot, Kafka, AsyncApi, Java 17, Grafana. *Ene 2024 - Presente*"
-          - "***Sector energético***. Senior Ingeniero Backend - Desarrollar el área de delivery de la compañía haciendo uso de patrones de diseño y buenas prácticas con el fin de construir una arquitectura robusta y escalable. **Tecnologías**: Micronaut, Kotlin, SQS, Grafana. *Oct 2022 - Dic 2023*"
-          - "***Sector aéreo***. Líder técnico - Head de una equipo de 5 personas cuya competencia fue supervisar la tareas del equipo para alinear de manera efectiva los objetivos de negocios. Mi enfoque estratégico y liderazgo proactivo resultaron fundamentales para el logro exitoso de los objetivos establecidos. **Tecnologías**: Spring, Java 7, Redis, Kibana, SOAP. *Abr 2021 - Sep 2022*"
-          - "***Banca digital***. Ingeniero Backend - Desarrollo e implementación de tests de carga en servidores para comprobar la capacidad de estos cuando hubiera una alta demanda en las aplicaciones. **Tecnologías**: Python, JMeter, Bamboo. *Ene 2021 - Mar 2021*"
+          - "***Tecnologías***: SpringBoot, Kafka, AsyncApi, OpenApi, Java 17, Grafana."
+          - "***Inditex***. Desarrollo de plataforma SaaS con una arquitectura orientada a eventos y haciendo uso de DDD para crear software de alta calidad que se ajuste a los requisitos del negocio."
+      - designation: Desarrollador Backend
+        start: Oct 2022
+        end: Dic 2023
+        responsibilities:
+          - "***Tecnologías***: Micronaut, Kotlin, AWS, Grafana."
+          - "***Galp Solar***. Desarrollar el área de delivery de la compañía haciendo uso de patrones de diseño y buenas prácticas con el fin de construir una arquitectura robusta y escalable."
+      - designation: Desarrollador Backend - Líder técnico
+        start: Abr 2021
+        end: Sep 2022
+        responsibilities:
+          - "***Tecnologías***: Spring, Java 7, Redis, Kibana, SOAP."
+          - "***Iberia***. Líder técnico de una equipo de 5 personas cuya competencia fue supervisar la tareas del equipo para alinear de manera efectiva los objetivos de negocios. Mi enfoque estratégico y liderazgo proactivo resultaron fundamentales para el logro exitoso de los objetivos establecidos."
+      - designation: Desarrollador Backend
+        start: Nov 2020
+        end: Mar 2021
+        responsibilities:
+          - "***Tecnologías***: Python, JMeter, Bamboo."
+          - "***WiZink***. Desarrollo e implementación de tests de carga en servidores para comprobar la capacidad de estos cuando hubiera una alta demanda en las aplicaciones."
 
   - company:
       name: Universidad Politécnica de Madrid
       url: https://www.mdpi.com/1424-8220/20/8/2227
+      logo: /images/sections/experiences/upm.png
       location: Calle Alan Turing, 28031 - Madrid
-      overview: Centro de referencia de la Ingeniería Técnica Informática en España.
     positions:
-      - designation: Ingeniero de computadores
+      - designation: Ingeniero de Computadores
         start: Jul 2020
         end: Oct 2020
         responsibilities:
@@ -39,8 +67,7 @@ experiences:
   - company:
       name: Autentia
       url: https://www.autentia.com/
-      # location: Av de Castilla 1, Local 21B, San Fernando de Henares, 28830 Madrid
-      # overview: Autentia es una empresa que transforma problemas complejos en soluciones de futuro, acompañando a sus clientes en sus proyectos más estratégicos, siendo referentes en eficacia y buenas prácticas.
+      logo: /images/sections/experiences/autentia.png
     positions:
       - designation: Becario
         start: Sept 2019

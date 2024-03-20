@@ -9,25 +9,54 @@ section:
 
 experiences:
   - company:
+      name: Paradigma digital
+      url: https://www.paradigmadigital.com/
+      logo: /images/sections/experiences/paradigma_digital.svg
+      location: Vía de las Dos Castillas, 33, Ática 2, 28224, Pozuelo de Alarcón, Madrid
+    positions:
+      - designation: Data Engineer
+        start: Mar 2024
+        # end: Mar 2024
+        responsibilities:
+          - "***Technologies***: Cloudera, Spark, Impala, Kudu, HDFS, Scala, Sql Server"
+          - "***BME***: ETL process definition and development."
+
+  - company:
       name: Autentia, by Izertis
       url: https://www.autentia.com/
+      logo: /images/sections/experiences/autentia.png
       location: Calle de Basauri, 6, Moncloa - Aravaca, 28023 Madrid
-      overview: Autentia is a company which transforms complex problems into solutions for the future, accompanying its clients in their most strategic projects, being a reference in efficiency and good practices.
     positions:
-      - designation: Backend Software Engineer
-        start: Nov 2020
-        # end: 
+      - designation: Backend Developer
+        start: Ene 2024
+        end: Mar 2024
         responsibilities:
-          - "***Textile sector***. Senior Backend Engineer - SaaS platform development with an event-driven architecture and using DDD to create high quality software that fits business requirements. **Technologies**: SpringBoot, Kafka, AsyncApi, Java 17, Grafana. *Jan 2024 - Present*"
-          - "***Energy sector***. Senior Backend Engineer - Develop the delivery area of the company using design patterns and best practices in order to build a robust and scalable architecture. **Technologies**: Micronaut, Kotlin, SQS, Grafana. *Oct 2022 - Dec 2023*"
-          - "***Air sector***. Technical Leader - Head of a team of 5 people whose competency was to oversee the team's tasks to effectively align business objectives. My strategic approach and proactive leadership were fundamental for the successful achievement of the established objectives. **Technologies**: Spring, Java 7, Redis, Kibana, SOAP. *Apr 2021 - Sep 2022*"
-          - "***Digital Banking***. Backend Engineer - Development and implementation of server load tests to check server capacity when there was a high demand on the applications. **Technologies**: Python, JMeter, Bamboo. *Jan 2021 - Mar 2021*"
+          - "***Technologies***: SpringBoot, Kafka, AsyncApi, OpenApi, Java 17, Grafana."
+          - "***Inditex***. SaaS platform development with an event-driven architecture and using DDD to create high quality software that fits business requirements."
+      - designation: Backend Developer
+        start: Oct 2022
+        end: Dic 2023
+        responsibilities:
+          - "***Technologies***: Micronaut, Kotlin, AWS, Grafana."
+          - "***Galp Solar***. Develop the delivery area of the company using design patterns and best practices in order to build a robust and scalable architecture."
+      - designation: Backend Developer - Technical Leader
+        start: Abr 2021
+        end: Sep 2022
+        responsibilities:
+          - "***Technologies***: Spring, Java 7, Redis, Kibana, SOAP."
+          - "***Iberia***. Technical leader of a team of 5 people whose competency was to oversee the team's tasks to effectively align business objectives. My strategic approach and proactive leadership were fundamental for the successful achievement of the established objectives."
+      - designation: Backend Developer
+        start: Nov 2020
+        end: Mar 2021
+        responsibilities:
+          - "***Technologies***: Python, JMeter, Bamboo."
+          - "***WiZink***. Development and implementation of server load tests to check server capacity when there was a high demand on the applications."
 
   - company:
       name: Universidad Politécnica de Madrid
       url: https://www.mdpi.com/1424-8220/20/8/2227
+      logo: /images/sections/experiences/upm.png
       location: Calle Alan Turing, 28031 - Madrid
-      overview: Reference centre for Technical Computer Engineering in Spain.
     positions:
       - designation: Embedded Systems Engineer
         start: Jul 2020
@@ -38,6 +67,7 @@ experiences:
 
   - company:
       name: Autentia
+      logo: /images/sections/experiences/autentia.png
     positions:
       - designation: Intern
         start: Sep 2019

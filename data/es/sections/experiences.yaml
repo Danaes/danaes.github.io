@@ -14,42 +14,27 @@ experiences:
       logo: /images/sections/experiences/paradigma_digital.svg
       location: Vía de las Dos Castillas, 33, Ática 2, 28224, Pozuelo de Alarcón, Madrid
     positions:
-      - designation: Ingeniero de Datos
+      - designation: Ingeniero de Software
         start: Mar 2024
         # end: Mar 2024
         responsibilities:
-          - "***Tecnologías***: Cloudera, Spark, Impala, Kudu, HDFS, Scala, Sql Server."
-          - "***BME***: Definición y desarrollo de procesos ETL."
+          - "Trabajo en la plataforma IDP, centrándome en la autenticación, el control de acceso y la seguridad. Mi labor implica diseñar y desarrollar soluciones que sigan las mejores prácticas en protección de datos e IAM, garantizando el máximo nivel de seguridad y resiliencia en los sistemas del cliente. ***Tecnologías: Spring Boot, Java 17, Go, Vue.JS, Consul, Nomad, Vault.***"
+          - "He aplicado herramientas de Big Data y servicios en la nube para diseñar y optimizar infraestructuras de datos, garantizando pipelines eficientes e integración fluida entre múltiples fuentes de datos. He implementado pipelines ETL y optimizado el procesamiento de datos para manejar grandes volúmenes de información, permitiendo la toma de decisiones basada en datos dentro de la organización. ***Tecnologías: Scala, Spark, Impala, SQL Server.***"
+
   - company:
       name: Autentia, by Izertis
       url: https://www.autentia.com/
       logo: /images/sections/experiences/autentia.png
       location: Calle de Basauri, 6, Moncloa - Aravaca, 28023 Madrid
     positions:
-      - designation: Desarrollador Backend
+      - designation: Ingeniero de Software
         start: Ene 2024
         end: Mar 2024
         responsibilities:
-          - "***Tecnologías***: SpringBoot, Kafka, AsyncApi, OpenApi, Java 17, Grafana."
-          - "***Inditex***. Desarrollo de plataforma SaaS con una arquitectura orientada a eventos y haciendo uso de DDD para crear software de alta calidad que se ajuste a los requisitos del negocio."
-      - designation: Desarrollador Backend
-        start: Oct 2022
-        end: Dic 2023
-        responsibilities:
-          - "***Tecnologías***: Micronaut, Kotlin, AWS, Grafana."
-          - "***Galp Solar***. Desarrollar el área de delivery de la compañía haciendo uso de patrones de diseño y buenas prácticas con el fin de construir una arquitectura robusta y escalable."
-      - designation: Desarrollador Backend - Líder técnico
-        start: Abr 2021
-        end: Sep 2022
-        responsibilities:
-          - "***Tecnologías***: Spring, Java 7, Redis, Kibana, SOAP."
-          - "***Iberia***. Líder técnico de una equipo de 5 personas cuya competencia fue supervisar la tareas del equipo para alinear de manera efectiva los objetivos de negocios. Mi enfoque estratégico y liderazgo proactivo resultaron fundamentales para el logro exitoso de los objetivos establecidos."
-      - designation: Desarrollador Backend
-        start: Nov 2020
-        end: Mar 2021
-        responsibilities:
-          - "***Tecnologías***: Python, JMeter, Bamboo."
-          - "***WiZink***. Desarrollo e implementación de tests de carga en servidores para comprobar la capacidad de estos cuando hubiera una alta demanda en las aplicaciones."
+        - "Desarrollé una plataforma SaaS utilizando una arquitectura basada en eventos, garantizando la escalabilidad del software y la alineación con el negocio. ***Tecnologías: Spring Boot, Kafka, AsyncAPI, Java 17, Grafana.***"
+        - "Construí y optimicé arquitecturas aplicando patrones de diseño y mejores prácticas, asegurando sistemas robustos y mantenibles. ***Tecnologías: Micronaut, Kotlin, SQS, Grafana.***"
+        - "Lideré un equipo de 5 ingenieros, asegurando la ejecución efectiva de tareas, la planificación estratégica y la alineación con los objetivos del negocio, impulsando el éxito de los proyectos. ***Tecnologías: Spring, Java 7, Redis, Kibana, SOAP.***"
+        - "Implementé pruebas de carga y optimizaciones de rendimiento para mejorar la resiliencia del sistema ante alta demanda. ***Tecnologías: Python, JMeter, Bamboo.***"
 
   - company:
       name: Universidad Politécnica de Madrid

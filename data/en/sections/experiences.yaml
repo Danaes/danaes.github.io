@@ -14,12 +14,12 @@ experiences:
       logo: /images/sections/experiences/paradigma_digital.svg
       location: Vía de las Dos Castillas, 33, Ática 2, 28224, Pozuelo de Alarcón, Madrid
     positions:
-      - designation: Data Engineer
+      - designation: Software Engineer
         start: Mar 2024
         # end: Mar 2024
         responsibilities:
-          - "***Technologies***: Cloudera, Spark, Impala, Kudu, HDFS, Scala, Sql Server"
-          - "***BME***: ETL process definition and development."
+          - "I am working on the IDP platform, focusing on authentication, access control and security. My work involves designing and developing solutions that adhere to best practices in data protection and IAM, ensuring the highest level of security and resilience for the client’s systems. ***Technologies: Spring Boot, Java 17, Go, Vue.JS, Consul, Nomad, Vault.***"
+          - "I have applied Big Data tools and cloud services to design and optimize data infrastructures, ensuring efficient data pipelines and seamless integration across multiple data sources. I have implemented ETL pipelines and optimized data processing to handle large volumes of data, enabling data-driven decision-making within the organization. ***Technologies: Scala, Spark, Impala, SQL Server.***"
 
   - company:
       name: Autentia, by Izertis
@@ -27,30 +27,14 @@ experiences:
       logo: /images/sections/experiences/autentia.png
       location: Calle de Basauri, 6, Moncloa - Aravaca, 28023 Madrid
     positions:
-      - designation: Backend Developer
-        start: Ene 2024
+      - designation: Software Engineer
+        start: Nov 2020
         end: Mar 2024
         responsibilities:
-          - "***Technologies***: SpringBoot, Kafka, AsyncApi, OpenApi, Java 17, Grafana."
-          - "***Inditex***. SaaS platform development with an event-driven architecture and using DDD to create high quality software that fits business requirements."
-      - designation: Backend Developer
-        start: Oct 2022
-        end: Dic 2023
-        responsibilities:
-          - "***Technologies***: Micronaut, Kotlin, AWS, Grafana."
-          - "***Galp Solar***. Develop the delivery area of the company using design patterns and best practices in order to build a robust and scalable architecture."
-      - designation: Backend Developer - Technical Leader
-        start: Abr 2021
-        end: Sep 2022
-        responsibilities:
-          - "***Technologies***: Spring, Java 7, Redis, Kibana, SOAP."
-          - "***Iberia***. Technical leader of a team of 5 people whose competency was to oversee the team's tasks to effectively align business objectives. My strategic approach and proactive leadership were fundamental for the successful achievement of the established objectives."
-      - designation: Backend Developer
-        start: Nov 2020
-        end: Mar 2021
-        responsibilities:
-          - "***Technologies***: Python, JMeter, Bamboo."
-          - "***WiZink***. Development and implementation of server load tests to check server capacity when there was a high demand on the applications."
+        - "Developed a SaaS platform using event-driven architecture ensuring software scalability and business alignment. ***Technologies Spring Boot, Kafka, AsyncAPI, Java 17, Grafana.***"
+        - "Built and optimized architectures with design patterns and best practices, ensuring robust and maintainable systems. ***Technologies Micronaut, Kotlin, SQS, Grafana.***"
+        - "Lead a team of 5 engineers, ensuring effective task execution, strategic planning, and alignment with business objectives, driving successful project outcomes. ***Technologies Spring, Java 7, Redis, Kibana, SOAP.***"
+        - "Implemented load testing and performance optimizations to enhance system resilience under high demand. ***Technologies Python, JMeter, Bamboo.***"
 
   - company:
       name: Universidad Politécnica de Madrid

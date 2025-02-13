@@ -18,7 +18,7 @@ module:
 
 languages:
   es:
-    languageName: Spanish
+    languageName: Español
     weight: 1
   en:
     languageName: English
@@ -56,7 +56,7 @@ params:
       google:
         id: G-QH6WVZ6EG6
     darkMode:
-      enabled: true
+      enable: true
 
 Privacy:
   GoogleAnalytics:
